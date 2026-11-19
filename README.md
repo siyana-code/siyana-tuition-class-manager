@@ -5,3 +5,7 @@ Attendance via student QR cards, fee tracking, SMS to parents and class schedule
 - **Stack:** Next.js, Supabase, SMS API
 - **Why:** The tuition industry is huge and mostly managed in exercise books.
 - **Model:** Charged per class per month. Parents automatically get a "your child arrived" SMS.
+
+## Documentation
+
+- [Market research and analysis](docs/research/README.md): Sri Lankan market, competitors, local context and recommendations
